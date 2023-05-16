@@ -1,0 +1,1512 @@
+Old Name,New Name
+Y,Y
+W,W
+V,V
+trnY(gua),Y
+trnY(gta),Y
+trnW(uca),W
+trnW(tca),W
+trnV(uac),V
+trnV(tac),V
+trnT(ugu),T
+trnT(tgt),T
+trnS2(tga),S
+trnS1(tct),S
+trnS(uga),S
+trnS(ucu),S
+trnR(ucg),R
+trnR(tcg),R
+trnQ(uug),Q
+trnP(ugg),P
+trnP(tgg),P
+trnN(guu),N
+trnN(gtt),N
+trnM(cau),M
+trnM(cat),M
+trnL2(taa),L
+trnL1(tag),L
+trnL(uag),L
+trnL(uaa),L
+trnK(uuu),K
+trnK(ttt),K
+trnI(gau),I
+trnI(gat),I
+trnH(gug),H
+trnH(gtg),H
+trnG(ucc),G
+trnG(tcc),G
+trnF(gaa),F
+trnE(uuc),E
+trnE(ttc),E
+trnD(guc),D
+trnD(gtc),D
+trnC(gca),C
+tRNA-VAL,V
+tRNA-TYR,Y
+tRNA-TRP,W
+tRNA-THR,T
+tRNA-SER2,S2
+tRNA-SER1,S1
+tRNA-Ser,S
+tRNA-PRO,P
+tRNA-PHE,F
+tRNA-MET,M
+tRNA-LYS,K
+tRNA-LEU2,L2
+tRNA-LEU1,L1
+tRNA-Leu,L
+tRNA-ILE,I
+tRNA-HIS,H
+tRNA-GLY,G
+tRNA-GLU,E
+tRNA-GLN,Q
+tRNA-CYS,C
+tRNA-ASP,D
+tRNA-ASN,N
+tRNA-ARG,R
+tRNA-ALA,A
+trnA(ugc),A
+trnA(tgc),A
+T,T
+s-rRNA,12s
+S2,S2
+S1,S1
+S,S
+rrnaS,12s
+rrnaL,16s
+R,R
+Q,Q
+P,P
+ND6,nad6
+ND5,nad5
+ND4L,nad4l
+ND4,nad4
+ND4,nad4l
+ND3,nad3
+ND2,nad2
+ND1,nad1
+NADH dehydrogenase subunit 6,nad6
+NADH dehydrogenase subunit 5,nad5
+NADH dehydrogenase subunit 4L,nad4l
+NADH dehydrogenase subunit 4,nad4
+NADH dehydrogenase subunit 3,nad3
+NADH dehydrogenase subunit 2,nad2
+NADH dehydrogenase subunit 1,nad1
+nad6,nad6
+nad5,nad5
+nad4L,nad4l
+nad4,nad4
+nad3,nad3
+nad2,nad2
+nad1,nad1
+N,N
+M,M
+l-rRNA,16s
+L2,L2
+L1,L1
+L,L
+K,K
+I,I
+H,H
+G,G
+F,F
+E,E
+D,D
+cytochrome c oxidase subunit 3,cox3
+cytochrome c oxidase subunit 2,cox2
+cytochrome c oxidase subunit 1,cox1
+cytochrome b,cytb
+CYTB,cytb
+cox3,cox3
+cox2,cox2
+cox1,cox1
+cob,cytb
+C,C
+atp8,atp8
+atp6,atp6
+ATP synthase F0 subunit 8,atp8
+ATP synthase F0 subunit 6,atp6
+A,A
+16S ribosomal RNA,16s
+12S ribosomal RNA,12s
+NCR,NCR
+12s,12s
+16s,16s
+trnQ(ttg),Q
+atp8_0,atp8
+rrnS,12s
+rrnL,16s
+small subunit ribosomal RNA,12s
+large subunit ribosomal RNA,16s
+trnN(aac),N
+trnG(gga),G
+trnY(tac),Y
+trnM(atg),M
+trnD(gac),D
+trnQ(caa),Q
+trnW(tga),W
+trnR(cga),R
+trnH(cac),H
+trnF(ttc),F
+trnE(gaa),E
+trnP(cca),P
+trnT(aca),T
+trnV(gta),V
+trnL1(cta),L1
+trnS2(tca),S2
+trnA(gca),A
+trnL2(tta),L2
+trnI(atc),I
+trnK(aaa),K
+trnS1(aga),S1
+trnC(tgc),C
+trnL(TAG),L
+trnS(TGA),S
+trnL(TAA),L
+trnS(TCT),S
+rrn12,12s
+rrn16,16s
+trnS(tct),S
+trnR-UCG,R
+12S rRNA,12s
+16S rRNA,16s
+COXI,cox1
+COXII,cox2
+ATPase8,atp8
+ATPase6,atp6
+COXIII,cox3
+COI,cox1
+COII,cox2
+COIII,cox3
+MD5,nad5
+cyt b,cytb
+ATPase 8,atp8
+ATPase 6,atp6
+Cyt b,cytb
+not complete,NCR
+partial sequence (not completely determined),NCR
+control region,NCR
+cytochrome c oxidase subunit I,cox1
+cytochrome c oxidase subunit II,cox2
+cytochrome c oxidase subunit III,cox3
+small ribosomal RNA subunit RNA,12s
+large ribosomal RNA subunit RNA,16s
+trnS(GCT),S
+NCR,NCR
+trnF(GAA),F
+12S ribosomal RNA,12s
+trnV(TAC),V
+16S ribosomal RNA,16s
+trnL(TAA),L
+ND1,nad1
+nad1,nad1
+trnI(GAT),I
+trnQ(TTG),Q
+trnM(CAT),M
+ND2,nad2
+nad2,nad2
+trnW(TCA),W
+trnA(TGC),A
+trnN(GTT),N
+trnC(GCA),C
+trnY(GTA),Y
+COXI,cox1
+trnS(TGA),S
+trnD(GTC),D
+COXII,cox2
+trnK(TTT),K
+ATP8,atp8
+atp8,atp8
+ATP6,atp6
+atp6,atp6
+COXIII,cox3
+trnG(TCC),G
+ND3,nad3
+nad3,nad3
+trnR(TCG),R
+ND4L,nad4l
+nad4L,nad4l
+ND4,nad4
+nad4,nad4
+trnH(GTG),H
+trnS(GCT),S
+trnL(TAG),L
+ND5,nad5
+nad5,nad5
+ND6,nad6
+nad6,nad6
+trnE(TTC),E
+CYTB,cytb
+cytb,cytb
+trnT(TGT),T
+trnP(TGG),P
+12 ribosomal RNA,12s
+12 rRNA,12s
+12S,12s
+12S mitochondrial ribosomal RNA,12s
+12S rDNA,12s
+12S ribosmal RNA,12s
+12 S ribosomal RNA,12s
+12S ribosomal RNA,12s
+12S ribosomal RNA gene,12s
+"12S ribosomal RNA, small subunit",12s
+12S ribosomal RNA subunit,12s
+12S ribosoma RNA,12s
+12S ribosomar RNA,12s
+12S ribosome RNA,12s
+12S ribosoml RNA,12s
+12S ribosonal RNA,12s
+12S ribosormal RNA,12s
+12S ribsomal RNA,12s
+12S ribsosmal RNA,12s
+12S RNA,12s
+12S rrn,12s
+12Srrn,12s
+12 S rRNA,12s
+12S r RNA,12s
+12S rRNA,12s
+12S-rRNA,12s
+12SrRNA,12s
+12S rRNA gene,12s
+12S small ribosomal RNA,12s
+12S small ribosomal RNA subunit,12s
+12S small subunit ribosomal RNA,12s
+12S small subunit RNA,12s
+12SS ribosomal RNA,12s
+12SS rRNA,12s
+12S (SSU) ribosomal RNA,12s
+16 ribosomal RNA,16s
+16S,16s
+16S large ribosomal RNA,16s
+16S large subunit ribosomal RNA,16s
+16S large subunit ribsomal RNA,16s
+16S (LSU) ribosomal RNA,16s
+16S mitochondrial ribosomal RNA,16s
+16S rDNA,16s
+16S riboaomal RNA,16s
+16S ribosamal RNA,16s
+16S ribosmal RNA,16s
+16S ribosoaml RNA,16s
+16S ribosomail RNA,16s
+16 S ribosomal RNA,16s
+16S ribosomal RNA,16s
+16S ribosomal RNA gene,16s
+16S ribosomal RNA homolog,16s
+"16S ribosomal RNA, large subunit",16s
+16S ribosomal RNA protein,16s
+16S ribosomal RNA subunit,16s
+16S ribosomal RNA subunit RNA,16s
+16S ribosome RNA,16s
+16S ribosoml RNA,16s
+16S ribosommal RNA,16s
+16S ribososmal RNA,16s
+16S ribososomal RNA,16s
+16S ribsomal RNA,16s
+16S risbosomal RNA,16s
+16S rivbosomal RNA,16s
+16sRNA,16s
+16S rrn,16s
+16Srrn,16s
+16S rRNA,16s
+16S-rRNA,16s
+16SrRNA,16s
+16S rRNA gene,16s
+2S ribosomal RNA,12s
+4,nad4
+A6,atp6
+A8,atp8
+AcCOI,cox1
+adenine triphosphatase subunit 6,atp6
+adenine triphosphatase subunit 8,atp8
+adenosine triphoshatase subunit 8,atp8
+adenosine triphosphatase 6,atp6
+adenosine triphosphatase 8,atp8
+adenosine triphosphatase subunit 6,atp6
+adenosine triphosphatase subunit 8,atp8
+adenosine triphosphate subunit 6,atp6
+adenosine triphosphate subunit 8,atp8
+adenosine triphosphate synthase 6,atp6
+adenosine triphosphate synthase 8,atp8
+adenosine triphosphate synthase subunit 6,atp6
+adenosine triphosphate synthase subunit 8,atp8
+ADH dehydrogenase subunit 4,nad4
+ApCOI,cox1
+apocytochome b,cytb
+apocytochrome b,cytb
+apocytochrome-b,cytb
+apocytyochrome b,cytb
+apoprotein,cytb
+APT6,atp6
+apt8,atp8
+APT8,atp8
+AT6,atp6
+AT8,atp8
+ATP6ase,atp6
+atp6,atp6
+ATP 6,atp6
+ATP-6,atp6
+ATP6,atp6
+ATP6 synthase,atp6
+ATP8ase,atp8
+atp8,atp8
+ATP 8,atp8
+ATP-8,atp8
+ATP8,atp8
+atpase 6,atp6
+ATPase 6,atp6
+ATPase-6,atp6
+ATPase6,atp6
+ATPASE6,atp6
+ATPase 6 gene,atp6
+ATPase 6 protein,atp6
+ATPase6 protein,atp6
+ATPase 6 subunit,atp6
+atpase 8,atp8
+ATPase 8,atp8
+ATPase-8,atp8
+ATPase8,atp8
+ATPASE8,atp8
+ATPase 8 gene,atp8
+ATPase 8 protein,atp8
+ATPase8 protein,atp8
+ATPase,atp6
+ATPase,atp8
+ATPase complex subunit 6,atp6
+ATPase complex subunit 8,atp8
+ATPase F0 subunit 6,atp6
+ATPase F0 subunit 8,atp8
+ATPase subuint 6,atp6
+ATPase subunit 6,atp6
+ATPase subunit-6,atp6
+ATPase subunit 6 (ATP6),atp6
+"ATPase subunit 6, ATPase6",atp6
+ATPase subunit 8,atp8
+ATPase subunit-8,atp8
+ATPase subunit8,atp8
+ATPase subunit 8 (ATP8),atp8
+ATPase subunits 6,atp6
+ATPase subunits 8,atp8
+ATPase subunit subunit subunit 6,atp6
+ATPase subunit subunit subunit 8,atp8
+ATPase synthase subunit 6,atp6
+ATPase synthase subunit 8,atp8
+ATP,atp6
+ATP F0 synthase subunit 6,atp6
+ATP F0 synthase subunit 8,atp8
+ATP subunit 6,atp6
+ATP subunit 8,atp8
+ATP sybthase F0 subunit 6,atp6
+ATP sybthase F0 subunit 8,atp8
+ATP synathase F0 subunit 6,atp6
+ATP synathase F0 subunit 8,atp8
+ATP syntahse F0 subunit 8,atp8
+ATP syntase subunit 6,atp6
+ATP syntase subunit 8,atp8
+ATP synthase 6,atp6
+ATP-synthase 6,atp6
+ATP synthase 8,atp8
+ATP synthase8,atp8
+ATP-synthase 8,atp8
+ATP synthase A chain protein 6,atp6
+ATP synthase A chain subuint 6,atp6
+ATP synthase A chain subunit 6,atp6
+ATP synthase F0 subunit 6,atp6
+ATPsynthase F0 subunit 6,atp6
+ATP synthase F0 subunit 8,atp8
+ATPsynthase F0 subunit 8,atp8
+ATP synthase F0 subunit g,atp6
+ATP synthase F1/F0 subunit,atp6
+ATP synthase F9 subunit 6,atp6
+ATP synthase F9 subunit 8,atp8
+ATP synthase FO subunit 6,atp6
+ATP synthase FO subunit 8,atp8
+ATP synthase protein 6,atp6
+ATP synthase protein 8,atp8
+ATP synthase subunit 6,atp6
+ATP synthase subunit 8,atp8
+ATP synthase subunit a,atp6
+ATP synthetase F0 subunit 6,atp6
+ATP synthetase F0 subunit 8,atp8
+ATP synthetase subunit 6,atp6
+ATP synthetase subunit 8,atp8
+ATP sythase subunit 6,atp6
+ATP sythase subunit 8,atp8
+AyCOI,cox1
+BmaCOI,cox1
+BmoCOI,cox1
+c01,cox1
+C0I,cox1
+Cb,cytb
+CB,cytb
+cCOII,cox2
+chytochrome c oxidase subunit I,cox1
+chytochrome c oxidase subunit II,cox2
+chytochrome c oxidase subunit III,cox3
+CjCOI,cox1
+clone 39-1,nad2
+clone 82-2,nad2
+co1,cox1
+Co1,cox1
+CO 1,cox1
+CO-1,cox1
+CO1,cox1
+CO 2,cox2
+CO2,cox2
+Co3,cox3
+CO 3,cox3
+CO3,cox3
+CO3 subunit 3,cox3
+cob,cytb
+COI 1,cox1
+coi,cox1
+co I,cox1
+Co I,cox1
+CO I,cox1
+CO-I,cox1
+COI,cox1
+coii,cox2
+co II,cox2
+Co II,cox2
+CO II,cox2
+CO-II,cox2
+COII,cox2
+coiii,cox3
+Co III,cox3
+CO III,cox3
+CO-III,cox3
+COIII,cox3
+COIII protein,cox3
+COIII translated region,cox3
+COII protein,cox2
+COI-LCO,cox1
+COI-PAT,cox1
+COI protein,cox1
+COl,cox1
+COll,cox2
+cotochrome b,cytb
+cox1a,cox1
+cox1b,cox1
+cox 1,cox1
+cox-1,cox1
+cox1,cox1
+Cox1,cox1
+COX 1,cox1
+COX-1,cox1
+COX1,cox1
+cox-2,cox2
+cox2,cox2
+COX 2,cox2
+COX2,cox2
+cox3,cox3
+Cox3,cox3
+COX-3,cox3
+COX3,cox3
+coxA,cox1
+COX,cox1
+cox I,cox1
+coxI,cox1
+CoxI,cox1
+COX-I,cox1
+COXI,cox1
+coxii,cox2
+cox II,cox2
+coxII,cox2
+CoxII,cox2
+COX II,cox2
+COX-II,cox2
+COXII,cox2
+coxIII,cox3
+CoxIII,cox3
+COX III,cox3
+COX-III,cox3
+COXIII,cox3
+ctb,cytb
+C-terminal domain of Cytochrome c Oxidase subunit II,cox2
+ctochrome oxidase I,cox1
+ctyb,cytb
+CTYB,cytb
+cutochrome c oxidase subunit I,cox1
+cutochrome oxidase subunit 3,cox3
+cutochrome oxidase subunit II,cox2
+cyb,cytb
+CYB,cytb
+cybt,cytb
+CYCS,cox1
+cyctochrome c oxidase subunit 1,cox1
+cyctochrome oxidase subunit 1,cox1
+cycytochrome oxidase I,cox1
+cynb,cytb
+cyochrome oxidase subunit I,cox1
+cyochrome oxidase subunit II,cox2
+cyochrome oxidase subunit III,cox3
+cyotchrome oxidase subunit I,cox1
+cyotochrome oxidase subunit I,cox1
+cyrochrome b,cytb
+cyrochrome oxidase subunit 1,cox1
+cyrochrome oxidase subunit I,cox1
+cytb1,cytb
+cytb2,cytb
+cytb3,cytb
+cytb4,cytb
+cyt b,cytb
+cyt-b,cytb
+cytb,cytb
+cyt-B,cytb
+cytB,cytb
+Cyt b,cytb
+Cyt-b,cytb
+Cyt.b,cytb
+Cytb,cytb
+CytB,cytb
+CYTB,cytb
+cytbochrome b,cytb
+cytb protein,cytb
+Cytb protein,cytb
+cytc,cox1
+cytchorome b,cytb
+cytchrome b,cytb
+cytchrome c oxidase subunit I,cox1
+cytchrome c oxidase subunit II,cox2
+cytchrome c oxidase subunit III,cox3
+cytchrome oxidase subunit I,cox1
+cyt,cytb
+cythochrome oxidase subunit I,cox1
+Cythocrome b,cytb
+cyto b,cytb
+CytoB,cytb
+cytochdrome c oxidase subunit I,cox1
+cytochdrome c oxidase subunit II,cox2
+cytochdrome c oxidase subunit III,cox3
+cytochome b,cytb
+cytochome c oxidase subunit 1,cox1
+cytochome c oxidase subunit 2,cox2
+cytochome c oxidase subunit 3,cox3
+cytochome c oxidase subunit I,cox1
+cytochome oxidase II,cox2
+cytochome oxidase subunit 1,cox1
+cytochome oxidase subunit 2,cox2
+cytochome oxidase subunit I,cox1
+cytochome oxidse II,cox2
+cytochorme b,cytb
+cytochorme oxidase subunit I,cox1
+cytochorome b,cytb
+cytochorome c oxidase subunit I,cox1
+cytochorome c oxidase subunit II,cox2
+cytochorome oxidase subunit I,cox1
+cytochorome oxidase subunit II,cox2
+cytochorome oxidase subunit III,cox3
+cytochorom oxidase subunit II,cox2
+cytochroe c oxidase subunit 1,cox1
+cytochroime b,cytb
+cytochrom b,cytb
+cytochrom b protein,cytb
+cytochrom c oxidase subunit 1,cox1
+cytochrom c oxidase subunit 3,cox3
+cytochrome apoenzyme b,cytb
+cytochrome b (45 AA),cytb
+cytochrome-b5 reductase,cytb
+cytochrome b apoenzyme,cytb
+cytochrome b,cytb
+cytochrome-b,cytb
+cytochrome-B,cytb
+Cytochrome b,cytb
+Cytochrome-b,cytb
+cytochrome b gene,cytb
+cytochrome b light strand,cytb
+Cytochrome B mitochiondrial organelle,cytb
+cytochrome b (mitochondrion),cytb
+cytochrome b oxidase,cytb
+cytochrome B oxidase,cytb
+cytochrome b oxidase subunit II,cox2
+cytochrome b oxydase,cytb
+cytochrome b partial sequence,cytb
+cytochrome b protein,cytb
+cytochrome B protein,cytb
+Cytochrome b protein,cytb
+Cytochrome-b protein,cytb
+cytochrome b small subunit of mitochondrial fumarate reductase,cytb
+cytochrome b; TAA stop codon appears afterpolyadenylation,cytb
+cytochrome b type 1,cytb
+cytochrome b type 2,cytb
+cytochrome b type 3,cytb
+cytochrome b type 4,cytb
+cytochrome b type 5,cytb
+cytochrome b type 6,cytb
+cytochrome c coxidase subunit III,cox3
+cytochrome co oxidase subunit III,cox3
+cytochrome c oxdase subunit 2,cox2
+cytochrome c oxdiase subunit I,cox1
+cytochrome c oxidae subunit 1,cox1
+cytochrome c oxidase 1,cox1
+cytochrome c oxidase 1 subunit 1,cox1
+cytochrome c oxidase 2,cox2
+cytochrome C oxidase 2,cox2
+cytochrome c oxidase 3,cox3
+cytochrome C oxidase asubunit 3,cox3
+cytochrome c oxidase chain I,cox1
+cytochrome c oxidase chain II,cox2
+cytochrome c oxidase,cox1
+cytochrome-c oxidase,cox1
+cytochrome-c oxidase,cox2
+cytochrome-c oxidase,cox3
+cytochrome c oxidase I,cox1
+cytochrome-c oxidase I,cox1
+cytochrome c oxidase II,cox2
+cytochrome-c oxidase II,cox2
+cytochrome-c-oxidase II,cox2
+cytochrome c oxidase III,cox3
+cytochrome-c oxidase III,cox3
+cytochrome C oxidase II subunit,cox2
+cytochrome c oxidase I subunit,cox1
+cytochrome c oxidase polypeptide 1,cox1
+cytochrome c oxidase polypeptide 2,cox2
+cytochrome c oxidase polypeptide 3,cox3
+cytochrome c oxidase polypeptide I,cox1
+cytochrome c oxidase polypeptide II,cox2
+cytochrome c oxidase polypeptide III,cox3
+cytochrome c oxidases 1,cox1
+cytochrome c oxidases subunit 1,cox1
+cytochrome c oxidase subnit I,cox1
+cytochrome c oxidase subnunit III,cox3
+cytochrome c oxidase subumit I,cox1
+cytochrome c oxidase subunit 1,cox1
+cytochrome c-oxidase subunit 1,cox1
+cytochrome coxidase subunit 1,cox1
+cytochrome C oxidase subunit 1,cox1
+Cytochrome c oxidase subunit1,cox1
+cytochrome c oxidase subunit 1 (cox1),cox1
+Cytochrome C oxidase subunit 1 (COXI),cox1
+Cytochrome c oxidase subunit 1 protein,cox1
+cytochrome c oxidase subunit 1 type A,cox1
+cytochrome c oxidase subunit 2,cox2
+cytochrome c oxidase subunit2,cox2
+cytochrome c-oxidase subunit 2,cox2
+cytochrome coxidase subunit 2,cox2
+Cytochrome C oxidase subunit 2 (COXII),cox2
+Cytochrome c oxidase subunit 2 protein,cox2
+cytochrome c oxidase subunit 3,cox3
+cytochrome c-oxidase subunit 3,cox3
+cytochrome coxidase subunit 3,cox3
+Cytochrome c oxidase subunit3,cox3
+Cytochrome c oxidase subunit 3 protein,cox3
+cytochrome c oxidase subunit,cox1
+cytochrome c oxidase subunite 1,cox1
+cytochrome c oxidase subunit Ia,cox1
+cytochrome c oxidase subunit Ib,cox1
+"cytochrome c oxidase subunit I, COI",cox1
+cytochrome c oxidase subunit I,cox1
+cytochrome coxidase subunit I,cox1
+cytochrome-c oxidase subunit I,cox1
+cytochrome C oxidase subunit I,cox1
+cytochrome c oxidase subunit ii,cox2
+cytochrome c oxidase subunit II,cox2
+"cytochrome c oxidase, subunit II",cox2
+cytochrome coxidase subunit II,cox2
+cytochrome-c oxidase subunit II,cox2
+"cytochrome c oxidase subunit III, CoIII",cox3
+cytochrome c oxidase subunit III,cox3
+cytochrome coxidase subunit III,cox3
+cytochrome-c oxidase subunit III,cox3
+cytochrome c oxidase subunits 1,cox1
+cytochrome c oxidase subunits I,cox1
+cytochrome c oxidase subunits II,cox2
+cytochrome c oxidase subunits III,cox3
+cytochrome c-oxidase subunit three,cox3
+cytochrome c oxidase subunt 2,cox2
+cytochrome c oxidase subunti I,cox1
+cytochrome c oxidase sununit III,cox3
+cytochrome c oxidas subunit 1,cox1
+cytochrome c oxydase subunit 1,cox1
+cytochrome c oxydase subunit 2,cox2
+cytochrome c oxydase subunit 3,cox3
+cytochrome c oxydase subunit I,cox1
+cytochrome C oxydase subunit I,cox1
+cytochrome c oxydase subunit II,cox2
+cytochrome c oxydase subunit III,cox3
+cytochrome C reductase subunit b,cytb
+cytochrome c subunit 1,cox1
+cytochrome C subunit 1,cox1
+cytochrome c subunit I,cox1
+cytochrome c subunit II,cox2
+cytochrome c subunit III,cox3
+cytochrome,cytb
+cytochrome I oxidase,cox1
+cytochrome oxdase I,cox1
+cytochrome oxdiase subunit I,cox1
+cytochrome oxidase 1,cox1
+cytochrome oxidase 2,cox2
+cytochrome oxidase 3,cox3
+cytochrome oxidase a subunit 1,cox1
+cytochrome oxidase b,cytb
+cytochrome oxidase B,cytb
+cytochrome oxidase b subunit 1,cox1
+cytochrome oxidase,cox1
+cytochrome oxidase,cox2
+cytochrome oxidase,cox3
+cytochrome oxidase c subunit 1,cox1
+cytochrome oxidase c subunit 2,cox2
+cytochrome oxidase c subunit 3,cox3
+cytochrome oxidase c subunit,cox1
+cytochrome oxidase c subunit I,cox1
+cytochrome oxidase c subunit II,cox2
+cytochrome oxidase c subunit III,cox3
+cytochrome oxidase d subunit 1,cox1
+cytochrome oxidase I,cox1
+Cytochrome oxidase I,cox1
+Cytochrome Oxidase I,cox1
+cytochrome oxidase II,cox2
+CytochromeOxidase II,cox2
+cytochrome oxidase III (1 is 2nd base in codon),cox3
+cytochrome oxidase III,cox3
+cytochrome oxidase II subunit,cox2
+cytochrome oxidase I subunit 1,cox1
+cytochrome oxidase I subunit,cox1
+"cytochrome oxidase, polypeptide I",cox1
+cytochrome oxidaser subunit I,cox1
+cytochrome oxidase submit I,cox1
+cytochrome oxidase subnit I,cox1
+cytochrome oxidase subnunit II,cox2
+cytochrome oxidase sububit I,cox1
+cytochrome oxidase subuinit I,cox1
+cytochrome oxidase subuint I,cox1
+cytochrome oxidase subuit 1,cox1
+cytochrome oxidase subumit I,cox1
+cytochrome oxidase subunidade I,cox1
+"cytochrome oxidase subunit 1, 3' end",cox1
+"cytochrome oxidase subunit 1, 5' end",cox1
+cytochrome oxidase subunit 1 (COI),cox1
+cytochrome oxidase sub-unit 1,cox1
+cytochrome oxidase subunit 1,cox1
+cytochrome oxidase subunit-1,cox1
+cytochrome oxidase subunit1,cox1
+"cytochrome oxidase, subunit 1",cox1
+Cytochrome oxidase subunit 1,cox1
+cytochrome oxidase subunit 2,cox2
+cytochrome oxidase subunit-2,cox2
+cytochrome oxidase subunit2,cox2
+cytochrome oxidase subunit-2; TAA stop codonappears after polyadenylation,cox2
+cytochrome oxidase subunit 3,cox3
+cytochrome oxidase subunit-3,cox3
+cytochrome oxidase subunit3,cox3
+cytochrome oxidase subunit,cox1
+cytochrome oxidase subunit,cox3
+cytochrome oxidase subunit I (COI),cox1
+'cytochrome oxidase subunit I,cox1
+cytochrome oxidase subunit I,cox1
+cytochrome oxidase subunit-I,cox1
+cytochrome oxidase subunitI,cox1
+"cytochrome oxidase, subunit I",cox1
+cytochrome oxidasesubunit I,cox1
+Cytochrome oxidase subunit I,cox1
+cytochrome oxidase subunit I gene,cox1
+cytochrome oxidase subunit II,cox2
+cytochrome oxidase subunit-II,cox2
+"cytochrome oxidase, subunit II",cox2
+Cytochrome oxidase subunit II,cox2
+cytochrome oxidase subunit III,cox3
+Cytochrome oxidase subunit III,cox3
+cytochrome oxidase subunit III type 1,cox3
+cytochrome oxidase subunit III type 2,cox3
+cytochrome oxidase subunit one,cox1
+cytochrome oxidase subunits I,cox1
+cytochrome oxidase subunits II,cox2
+cytochrome oxidase subunti 1,cox1
+cytochrome oxidase subunt I,cox1
+cytochrome oxidase subunt II,cox2
+cytochrome oxidase sununit 3,cox3
+cytochrome oxidase sununit I,cox1
+cytochrome oxidase sununit II,cox2
+cytochrome oxidase susbunit III,cox3
+cytochrome oxidase sybunit I,cox1
+cytochrome oxidate subunit I,cox1
+cytochrome oxidaze subunit 1,cox1
+cytochrome oxidiase subunit I,cox1
+cytochrome oxidse subunit I,cox1
+cytochrome oxisase subunit I,cox1
+cytochrome oxitase subunit II,cox2
+cytochrome oxitase subunit III,cox3
+cytochrome oxitdase subunit I,cox1
+cytochrome oxiydase subunit 1,cox1
+cytochrome oxodase subunit I,cox1
+cytochrome oxydase 1,cox1
+cytochrome oxydase c subunit I,cox1
+cytochrome oxydase I,cox1
+cytochrome oxydase II,cox2
+cytochrome oxydase subunit 1,cox1
+Cytochrome Oxydase Subunit1,cox1
+cytochrome oxydase subunit 2,cox2
+Cytochrome oxydase subunit 2,cox2
+cytochrome oxydase subunit 3,cox3
+Cytochrome oxydase subunit 3,cox3
+Cytochrome Oxydase Subunit3,cox3
+cytochrome oxydase subunit I,cox1
+cytochrome oxydase subunit II,cox2
+cytochrome oxydase subunit III,cox3
+cytochrome subunit B,cytb
+cytochrom oxidase I,cox1
+cytochtome b,cytb
+cytochtome c oxidase subunit I,cox1
+cytochtome c oxidase subunit II,cox2
+cytochtome c oxidase subunit III,cox3
+cytochtrome b,cytb
+cytocrhome b,cytb
+cytocrhome oxidase subunit I,cox1
+cytocrome b,cytb
+cytocrome c oxidase subunit 1,cox1
+cytocrome c oxidase subunit I,cox1
+Cytocrome Oxidase II,cox2
+cytocrome oxidase subunit 1,cox1
+cytocrome oxidase subunit I,cox1
+cytocrome oxidase subunit II,cox2
+cytoghrome b,cytb
+cytohcrome b,cytb
+cytohrome oxidase subunit I,cox1
+cytomchrome c oxidase subunit 1,cox1
+CytOxI,cox1
+cyt oxidase subunit 1,cox1
+cyt oxidase subunit 2,cox2
+cyt oxidase subunit 3,cox3
+CytOxII,cox2
+cytrochrome b oxidase,cytb
+dh1,nad1
+dh2,nad2
+dh3,nad3
+dh4L,nad4l
+dh4,nad4
+dh5,nad5
+dh6,nad6
+DtCOI,cox1
+F0-ATPase region 6,atp6
+F0-ATPase region 8,atp8
+F0-ATPase subunit 6,atp6
+F0-ATPase subunit6,atp6
+F0-ATPase subunit 8,atp8
+F0-ATPase subunit8,atp8
+F0-ATP synthase subunit 6,atp6
+F0-ATP synthase subunit6,atp6
+F0-ATP synthase subunit 8,atp8
+F0-ATP synthase subunit8,atp8
+F0/F1 ATP synthase subunit 6,atp6
+F0/F1 ATP synthase subunit 8,atp8
+F1 ATPase subunit 6,atp6
+F1-ATPase subunit 6,atp6
+F1 ATPase subunit 8,atp8
+F1-ATPase subunit 8,atp8
+F-ATPase subunit 6,atp6
+F-ATPase subunit 8,atp8
+Fcox1,cox1
+Fo ATPase subunit 6,atp6
+FO-ATPase subunit 6,atp6
+FO-ATPase subunit 8,atp8
+FoF1 ATPase subunit6,atp6
+"frameshift mechanism unknown (Mindell et al., 1998, Mol. Biol. Evol., 15:1568-1571",nad3
+genomic DNA,cox1
+HcCOI,cox1
+H(+)-transporting ATP synthase 6,atp6
+H(+)-transporting ATP synthase 8,atp8
+H(+)-transporting ATP synthase,atp6
+H(+)-transporting ATP synthase,atp8
+H+-transporting ATP synthase subunit 6,atp6
+H+-transporting ATP synthase subunit 8,atp8
+l6S ribosomal RNA,16s
+large 16S ribosomal RNA,16s
+large ribosomal RNA,16s
+large ribosomal RNA subnuit,16s
+large ribosomal RNA subunit,16s
+large ribosomal RNA subunit RNA,16s
+large rRNA,16s
+large subunit,16s
+large subunit 16S ribosomal RNA,16s
+large subunit of 16S ribosomal RNA,16s
+large subunit of ribosomal RNA,16s
+large subunit ribosomal RNA,16s
+large subunit ribosomal RNA gene,16s
+large subunit ribosomal RNA (lrRNA),16s
+l-ribosomal RNA,16s
+l-rRNA,16s
+lrRNA,16s
+LrRNA,16s
+LSrRNA,16s
+lsu,16s
+LSU,16s
+lsu ribosomal RNA,16s
+lsu rRNA,16s
+lsu-rRNA,16s
+LSU rRNA,16s
+mitochondiral cytochrome b,cytb
+mitochondrial 16S rRNA gene,16s
+mitochondrial cytochrome b,cytb
+Mitochondrial cytochrome b,cytb
+mitochondrial cytochrome c oxidase subunit III,cox3
+mitochondrial cytochrome oxidase subunit I,cox1
+mitochondrial cytochrome oxidase subunit II,cox2
+mitochondrial cytochromw b,cytb
+mitochondrial large ribosomal RNA subunit RNA,16s
+mitochondrially encoded Cytochrome b,cytb
+mitochondrially encoded NADH dehydrogenase 2,nad2
+mitochondrial NADH dehydrogenase subunit 2,nad2
+mitochondrial SSU ribosomal RNA,12s
+MTATP6,atp6
+MTATP8,atp8
+mtCO1,cox1
+MTCO1,cox1
+MTCO2,cox2
+MTCO3,cox3
+mt-co,cox3
+mt COI,cox1
+mtCOI,cox1
+mtcyb,cytb
+MT-CYB,cytb
+MTCYTB,cytb
+mtLSU rRNA,16s
+mtND1,nad1
+MT-ND1,nad1
+MTND5,nad5
+NA4L,nad4l
+nad1,nad1
+Nad1,nad1
+NAD1,nad1
+nad1 protein,nad1
+nad2,nad2
+Nad2,nad2
+NAD2,nad2
+nad3,nad3
+nad4_0,nad4
+nad4l,nad4l
+nad 4L,nad4l
+nad4L,nad4l
+nad4,nad4
+Nad4,nad4
+NAD4,nad4
+nad5,nad5
+NAD5,nad5
+nad6,nad6
+NAD dehydrogenase 1,nad1
+NAD Dehydrogenase subunit 1,nad1
+NAD dehydrogenase subunit 2,nad2
+NAD dehydrogenase subunit 3,nad3
+NAD dehydrogenase subunit 4L,nad4l
+NAD dehydrogenase subunit 5,nad5
+NAD dehydrogenase subunit 6,nad6
+NADG dehydrogenase subunit 3,nad3
+NADH 1 dehydrogenase,nad1
+NADH1 dehydrogenase subunit 1,nad1
+nadh-1,nad1
+nadh1,nad1
+NADH 1,nad1
+NADH-1,nad1
+NADH1,nad1
+NADH1 protein,nad1
+nadh2,nad2
+NADH 2,nad2
+NADH-2,nad2
+NADH2,nad2
+NADH2 protein,nad2
+nadh3,nad3
+NADH 3,nad3
+NADH-3,nad3
+NADH3,nad3
+NADH3 protein,nad3
+nadh4L,nad4l
+NADH 4L,nad4l
+NADH-4L,nad4l
+NADH4L,nad4l
+NADH4L protein,nad4l
+nadh4,nad4
+NADH 4,nad4
+NADH-4,nad4
+NADH4,nad4
+NADH4 protein,nad4
+nadh 5,nad5
+nadh5,nad5
+NADH 5,nad5
+NADH-5,nad5
+NADH5,nad5
+NADH5 protein,nad5
+nadh6,nad6
+NADH 6,nad6
+NADH-6,nad6
+NADH6,nad6
+NADH6 protein,nad6
+NADH dedhydrogenase subunit 1,nad1
+NADH dedydrogenase subunit 1,nad1
+NADH dehdrogenase subnuit 2,nad2
+NADH dehdrogenase subunit 1,nad1
+NADH dehdrogenase subunit 2,nad2
+NADH dehdrogenase subunit 4,nad4
+NADH dehdyrogenase subunit 1,nad1
+NADH dehdyrogenase subunit 2,nad2
+NADH dehyadrogenase subunit 2,nad2
+NADH dehybrogenase subunit 1,nad1
+NADH dehydgrogenase subunit 1,nad1
+NADH dehydgrogenase subunit 2,nad2
+NADH dehydogenase subunit 1,nad1
+NADH dehydogenase subunit 2,nad2
+NADH dehydogenase subunit 3,nad3
+NADH dehydogenase subunit 4L,nad4l
+NADH dehydogenase subunit 4,nad4
+NADH dehydogenase subunit 5,nad5
+NADH dehydogenase subunit 6,nad6
+NADH dehydogenase subunit I,nad1
+NADH dehydorgenase subunit 2,nad2
+NADH dehydorgenase subunit 4,nad4
+NADH dehydorogenase subunit 2,nad2
+NADH dehydorogenese subunit 2,nad2
+NADH dehydrigenase subunit 5,nad5
+NADH dehydrodenase subunit 5,nad5
+NADH dehydroenase subunit 1,nad1
+NADH dehydrogenae subunit 4L,nad4l
+NADH dehydrogenasa subunit 5,nad5
+NADH dehydrogenase 1,nad1
+NADH dehydrogenase 2,nad2
+NADH dehydrogenase 3,nad3
+NADH dehydrogenase 4L,nad4l
+NADH dehydrogenase 4,nad4
+NADH dehydrogenase 5,nad5
+NADH dehydrogenase-5,nad5
+NADH dehydrogenase 5 subunit,nad5
+NADH dehydrogenase 6,nad6
+NADH dehydrogenase chain 5,nad5
+NADH dehydrogenase complex 1,nad1
+NADH dehydrogenase complex 2,nad2
+NADH dehydrogenase complex 3,nad3
+NADH dehydrogenase complex 4L,nad4l
+NADH dehydrogenase complex 4,nad4
+NADH dehydrogenase complex 5,nad5
+NADH dehydrogenase complex 6,nad6
+NADH dehydrogenase complex subunit 1,nad1
+NADH dehydrogenase III,nad3
+NADH dehydrogenase I,nad1
+"NADH dehydrogenase, mitochondrial subunit 1",nad1
+NADH dehydrogenase,nad1
+NADH dehydrogenase,nad2
+NADH dehydrogenase,nad3
+NADH dehydrogenase,nad4
+NADH dehydrogenase,nad5
+NADH dehydrogenase,nad6
+NADH dehydrogenase (ND1) subunit 1,nad1
+NADH dehydrogenase (ND2) subunit 2,nad2
+NADH dehydrogenase (ND3) subunit 3,nad3
+NADH dehydrogenase (ND4) subunit 4,nad4
+NADH dehydrogenase (ND5) subunit 5,nad5
+NADH dehydrogenase (ND6) subunit 6,nad6
+NADH dehydrogenase respiratory chain subunit 1,nad1
+NADH dehydrogenase respiratory chain subunit 2,nad2
+NADH dehydrogenase respiratory chain subunit 4L,nad4l
+NADH dehydrogenase respiratory chain subunit 4,nad4
+NADH dehydrogenase respiratory chain subunit 5,nad5
+NADH dehydrogenase respiratory chain subunit 6,nad6
+NADH dehydrogenase subnit 1,nad1
+NADH dehydrogenase subnit 2,nad2
+NADH dehydrogenase subnit 3,nad3
+NADH dehydrogenase subnit 4L,nad4l
+NADH dehydrogenase subnit 4,nad4
+NADH dehydrogenase subnit 5,nad5
+NADH dehydrogenase subnit 6,nad6
+NADH dehydrogenase subnuit 1,nad1
+NADH dehydrogenase subnuit 2,nad2
+NADH dehydrogenase subnuit 3,nad3
+NADH dehydrogenase subuint 5,nad5
+NADH dehydrogenase subujnit 4L,nad4l
+NADH dehydrogenase subumit 1,nad1
+NADH dehydrogenase subumit 2,nad2
+NADH dehydrogenase subumit 3,nad3
+NADH dehydrogenase subumit 4L,nad4l
+NADH dehydrogenase subumit 4,nad4
+NADH dehydrogenase subumit 5,nad5
+NADH dehydrogenase subumit 6,nad6
+NADH dehydrogenase subuni1,nad1
+NADH dehydrogenase subunit #1,nad1
+NADH dehydrogenase subunit 1,nad1
+NADH dehydrogenase subunit-1,nad1
+NADH dehydrogenase subunit1,nad1
+"NADH dehydrogenase, subunit 1",nad1
+NADH-dehydrogenase subunit 1,nad1
+NADH-Dehydrogenase Subunit 1,nad1
+NADH dehydrogenase subunit 1 (ND1),nad1
+NADH dehydrogenase subunit 1 type 1,nad1
+NADH dehydrogenase subunit 1 type 2,nad1
+NADH dehydrogenase subunit 2 (mitochondrion),nad2
+#NADH dehydrogenase subunit 2,nad2
+NADH dehydrogenase subunit #2,nad2
+NADH dehydrogenase subunit 2,nad2
+NADH dehydrogenase subunit-2,nad2
+NADH dehydrogenase subunit2,nad2
+NADH-dehydrogenase subunit 2,nad2
+NADH dehydrogenase subunit 2 (ND2),nad2
+NADH dehydrogenase subunit 3,nad3
+NADH dehydrogenase subunit-3,nad3
+NADH dehydrogenase subunit3,nad3
+"NADH dehydrogenase, subunit 3",nad3
+NADH-dehydrogenase subunit 3,nad3
+"NADH dehydrogenase, subunit 4L (complex I)",nad4l
+NADH dehydrogenase subunit 4 L,nad4l
+NADH dehydrogenase subunit 4L,nad4l
+NADH dehydrogenase subunit-4L,nad4l
+NADH dehydrogenase subunit4L,nad4l
+NADH-dehydrogenase subunit 4L,nad4l
+nadh dehydrogenase subunit 4,nad4
+NADH dehydrogenase subunit 4,nad4
+NADH dehydrogenase subunit-4,nad4
+NADH dehydrogenase subunit4,nad4
+NADH-dehydrogenase subunit 4,nad4
+"NADH dehydrogenase, subunit 5 complex I",nad5
+NADH dehydrogenase subunit 5 (mitochondrion),nad5
+NADH dehydrogenase subunit 5,nad5
+NADH dehydrogenase subunit-5,nad5
+NADH dehydrogenase subunit5,nad5
+"NADH dehydrogenase, subunit 5",nad5
+NADH dehydrogenasesubunit 5,nad5
+NADH-dehydrogenase subunit 5,nad5
+NADH dehydrogenase subunit 5,nad6
+NADH dehydrogenase subunit 5 (ND5),nad5
+"NADH-dehydrogenase subunit 5, ND5",nad5
+NADH dehydrogenase subunit 6,nad6
+NADH dehydrogenase subunit-6,nad6
+NADH dehydrogenase subunit6,nad6
+"NADH dehydrogenase, subunit 6",nad6
+NADH-dehydrogenase subunit 6,nad6
+"NADH dehydrogenase subunit 6, ND6",nad6
+NADH dehydrogenase subunit A1,nad1
+NADH dehydrogenase subunit III,nad3
+NADH dehydrogenase subunit II,nad2
+NADH dehydrogenase subunit II (ND2),nad2
+NADH dehydrogenase subunit I,nad1
+NADH dehydrogenase subunit IV L,nad4l
+NADH dehydrogenase subunit IV,nad4
+NADH dehydrogenase subunit,nad1
+NADH dehydrogenase subunit,nad2
+NADH dehydrogenase subunit,nad5
+NADH dehydrogenase subunit ND3,nad3
+NADH dehydrogenase subunit ND4,nad4
+NADH dehydrogenase subunit ND5,nad5
+NADH dehydrogenase subunits 1,nad1
+NADH dehydrogenase subunits 2,nad2
+NADH dehydrogenase subunits 3,nad3
+NADH dehydrogenase subunits 4L,nad4l
+NADH dehydrogenase subunits 4,nad4
+NADH dehydrogenase subunits 5,nad5
+NADH dehydrogenase subunits 6,nad6
+NADH dehydrogenase subunit VI,nad6
+NADH dehydrogenase subunit V,nad5
+NADH dehydrogenase subunt 2,nad2
+NADH dehydrogenase subunt 4,nad4
+NADH dehydrogenase sunbunit 4,nad4
+NADH dehydrogenase suubunit 3,nad3
+NADH dehydrogenase suunit 1,nad1
+NADH dehydrogenase (ubiquinone) chain 1,nad1
+NADH dehydrogenase (ubiquinone) chain 3,nad3
+NADH dehydrogenase (ubiquinone) chain 4L,nad4l
+NADH dehydrogenase (ubiquinone) chain 4,nad4
+NADH dehydrogenase (ubiquinone) chain 5,nad5
+NADH dehydrogenase (ubiquinone) chain 6,nad6
+NADH dehydrogenase (ubiquinone),nad1
+NADH dehydrogenase (ubiquinone),nad2
+NADH dehydrogenase (ubiquinone),nad3
+NADH dehydrogenase (ubiquinone),nad4
+NADH dehydrogenase (ubiquinone),nad4l
+NADH dehydrogenase (ubiquinone),nad5
+NADH dehydrogenase (ubiquinone),nad6
+NADH dehydrogenate subunit 6,nad6
+NADH dehydrogenease subunit 3,nad3
+NADH dehydrogenease subunit 4L,nad4l
+NADH dehydrogenease subunit 5,nad5
+NADH dehydrogenese subunit 1,nad1
+NADH dehydrogenese subunit 2,nad2
+NADH dehydrogenese subunit 4L,nad4l
+NADH dehydrogenese subunit 4,nad4
+NADH dehydrogenese subunit 5,nad5
+NADH dehydrogenese subunit 6,nad6
+NADH dehydrogensae subunit 1,nad1
+NADH dehydrogensae subunit 2,nad2
+NADH dehydrogense subunit 1,nad1
+NADH dehydrogense subunit 2,nad2
+NADH dehydrogense subunit 3,nad3
+NADH dehydrogense subunit 4L,nad4l
+NADH dehydrogense subunit 4,nad4
+NADH dehydrogense subunit 5,nad5
+NADH dehydrogense subunit 6,nad6
+NADH dehydrogense subunit I,nad1
+NADH dehydroghense subunit 5,nad5
+NADH dehydrognase subunit II,nad2
+NADH dehydrosenase subunit 4,nad4
+NADH dehydroxygenase subunit 5,nad5
+NADH dehygrogenase subunit 1,nad1
+NADH dehygrogenase subunit 4L,nad4l
+NADH dehygrogenase subunit 4,nad4
+NADH dehygrogenase subunit 6,nad6
+NADH dehyodrogenase subunit 4,nad4
+NADH dehyrdogenase subunit 3,nad3
+NADH dehyrogenase subunit 3,nad3
+NADH denydrogenase subunit 1,nad1
+NADH denydrogenase subunit 2,nad2
+NADH denydrogenase subunit 3,nad3
+NADH denydrogenase subunit 4L,nad4l
+NADH denydrogenase subunit 4,nad4
+NADH denydrogenase subunit 5,nad5
+NADH denydrogenase subunit 6,nad6
+NADH deshidrogenase subunit 6,nad6
+NADH deshydrogenase subunit 1,nad1
+NADH deshydrogenase subunit 2,nad2
+NADH deshydrogenase subunit 3,nad3
+NADH deshydrogenase subunit 4L,nad4l
+NADH deshydrogenase subunit 4,nad4
+NADH deshydrogenase subunit 5,nad5
+NADH deshydrogenase subunit 6,nad6
+NADH deydrogenase subunit 2,nad2
+NADH deydrogenase subunit 3,nad3
+NADH deydrogenase subunit 4,nad4
+NADH deydrogenase subunit 5,nad5
+NADH deydrogenase subunit 6,nad6
+NADH deyhdrogenase subunit 1,nad1
+NADH deyhdrogenase subunit 2,nad2
+NADH deyhdrogenase subunit 4,nad4
+NADH deyhdrogenase subunit 6,nad6
+NADH deyhydrogenase subunit 2,nad2
+NADH dhydrogenase 1,nad1
+NADH dsehydrogenase subunit 6,nad6
+NADH hehydrogenase subunit 5,nad5
+NADH hydrogenase subunit 2,nad2
+NADH hydrogenase subunit 5,nad5
+nadhi,nad1
+nadhI,nad1
+NADH-I,nad1
+NADH,nad1
+NADH,nad6
+NADH sub1,nad1
+NADH sub2,nad2
+NADH subunit 1,nad1
+NADHsubunit 1,nad1
+NADH subunit 2,nad2
+NADH-subunit 2,nad2
+NADH subunit 3,nad3
+NADH subunit 4L,nad4l
+NADH subunit 4,nad4
+NADH subunit 5,nad5
+NADH subunit 6,nad6
+NADH-subunit 6,nad6
+NADH subunit VI,nad6
+NADH:ubiquinone oxidoreductase 1,nad1
+NADH:ubiquinone oxidoreductase 2,nad2
+NADH:ubiquinone oxidoreductase 4L,nad4l
+NADH:ubiquinone oxidoreductase 4,nad4
+NADH:ubiquinone oxidoreductase 5,nad5
+NADH:ubiquinone oxidoreductase 6,nad6
+NADH-ubiquinone oxidoreductase chain 1,nad1
+NADH-ubiquinone oxidoreductase chain 1 protein,nad1
+NADH-ubiquinone oxidoreductase chain 2,nad2
+NADH-ubiquinone oxidoreductase chain 3,nad3
+NADH-ubiquinone oxidoreductase chain 4L,nad4l
+NADH-ubiquinone oxidoreductase chain 4,nad4
+NADH-ubiquinone oxidoreductase chain 4 protein,nad4
+NADH-ubiquinone oxidoreductase chain 5,nad5
+NADH-ubiquinone oxidoreductase chain 5 protein,nad5
+NADH-ubiquinone oxidoreductase chain 6,nad6
+NADH ubiquinone oxidoreductase subunit 1,nad1
+NADH-ubiquinone oxidoreductase subunit 1,nad1
+NADH ubiquinone oxidoreductase subunit 2,nad2
+NADH-ubiquinone oxidoreductase subunit 2,nad2
+NADH ubiquinone oxidoreductase subunit 3,nad3
+NADH-ubiquinone oxidoreductase subunit 3,nad3
+NADH ubiquinone oxidoreductase subunit 4L,nad4l
+NADH-ubiquinone oxidoreductase subunit 4L,nad4l
+NADH ubiquinone oxidoreductase subunit 4,nad4
+NADH-ubiquinone oxidoreductase subunit 4,nad4
+NADH ubiquinone oxidoreductase subunit 5,nad5
+NADH-ubiquinone oxidoreductase subunit 5,nad5
+NADH ubiquinone oxidoreductase subunit 6,nad6
+NADH-ubiquinone oxidoreductase subunit 6,nad6
+NADH-ubiquinone oxidoreductase subunit III,nad3
+NADH-ubiquinone oxidoreductase subunit II,nad2
+NADH-ubiquinone oxidoreductase subunit I,nad1
+NADH-ubiquinone oxidoreductase subunit IV,nad4
+NADH-ubiquinone oxidoreductase subunit VI,nad6
+NADH-ubiquinone oxidoreductase subunit V,nad5
+NAD(P)H dehydrogenase subunit 1,nad1
+NADY dehydrogenase subunit 6,nad6
+nahd1,nad1
+NAHD2,nad2
+NAHD5,nad5
+NAHD dehydrogenase 5,nad5
+NAHD dehydrogenase subunit 1,nad1
+NAHD dehydrogenase subunit 2,nad2
+NAHD dehydrogenase subunit 3,nad3
+NAHD dehydrogenase subunit 4L,nad4l
+NAHD dehydrogenase subunit 4,nad4
+NAHD dehydrogenase subunit 5,nad5
+NAHD dehydrogenase subunit 6,nad6
+ND1 gene product (AA 1 - 127),nad1
+ND1 gene product (AA 1 - 129),nad1
+nd1,nad1
+Nd1,nad1
+ND 1,nad1
+ND-1,nad1
+ND1`,nad1
+ND1),nad1
+ND1,nad1
+ND-1 protein (54 AA),nad1
+ND-1 protein (76 AA),nad1
+ND1 protein,nad1
+ND2 gene,nad2
+nd2,nad2
+ND 2,nad2
+ND-2,nad2
+ND2,nad2
+ND2 protein,nad2
+nd3,nad3
+ND 3,nad3
+ND-3,nad3
+ND3,nad3
+ND3 protein,nad3
+nd4l,nad4l
+nd4L,nad4l
+ND 4L,nad4l
+ND-4L,nad4l
+ND4-L,nad4l
+ND4L,nad4l
+ND4L protein,nad4l
+nd4,nad4
+ND 4,nad4
+ND-4,nad4
+ND4,nad4
+ND-4 protein (71 AA),nad4
+ND4 protein,nad4
+nd5,nad5
+Nd5,nad5
+ND 5,nad5
+ND-5,nad5
+ND5,nad5
+ND5 protein,nad5
+nd 6,nad6
+nd6,nad6
+ND-6,nad6
+ND6,nad6
+ND6 protein,nad6
+NDA1,nad1
+N-dehydrogenase subunit 5,nad5
+NDH1,nad1
+ndh2,nad2
+ndh3,nad3
+ndh4,nad4
+ndh5,nad5
+ndh6,nad6
+NDH,nad3
+ndh-U1,nad1
+ndh-U3,nad3
+ndh-U4L,nad4l
+ndh-U4,nad4
+ndh-U5,nad5
+ndh-U6,nad6
+NDII,nad2
+NDI,nad1
+ndp,nad6
+nicotinamide adenine dehydrogenase subunit 4,nad4
+nicotinamide adenine dinucleotide dehydrogenase component 2,nad2
+nicotinamide adenine dinucleotide dehydrogenase (NADH) subunit 2,nad2
+nicotinamide adenine dinucleotide dehydrogenase (NADH) subunit 4,nad4
+nicotinamide adenine dinucleotide dehydrogenase subunit 1,nad1
+nicotinamide adenine dinucleotide dehydrogenase subunit 2,nad2
+nicotinamide adenine dinucleotide dehydrogenase subunit 3,nad3
+nicotinamide adenine dinucleotide dehydrogenase subunit 4L,nad4l
+nicotinamide adenine dinucleotide dehydrogenase subunit 4,nad4
+nicotinamide adenine dinucleotide dehydrogenase subunit 5,nad5
+nicotinamide adenine dinucleotide dehydrogenase subunit 6,nad6
+nicotinamide adenine dinucleotide,nad2
+nicotinamide dehydrogenase 4,nad4
+nicotinamide dehydrogenase subunit 2,nad2
+nicotinamine dehydrogenase sub unit 2,nad2
+NND2,nad2
+NND5,nad5
+NU5M,nad5
+p6,atp6
+p8,atp8
+product: cytochrome c oxidase subunit I,cox1
+putative cytochrome c oxidase subunit 2,cox2
+putative cytochrome oxidase subunit II,cox2
+q6S ribosomal RNA,16s
+RfCOI,cox1
+ribosomal RNA large subunit,16s
+"ribosomal RNA, large subunit",16s
+ribosomal RNA small subunit,12s
+RNA-His and 16S ribosomal RNA,16s
+rnl,16s
+rnLa,16s
+rnl_p1,16s
+rnl_p2,16s
+rnl_p3,16s
+rnl_p4,16s
+rnl_p5,16s
+rnl_p6,16s
+rnr1,12s
+RNR1,12s
+rnr2,16s
+RNR2,16s
+rns,12s
+rns_p1,12s
+rns_p2,12s
+rns_p3,12s
+rrn12,12s
+rrn16,16s
+rRNA-12S,12s
+rRNA,16s
+rRNA gene,16s
+rRNA large subunit,16s
+rRNA small subunit,12s
+rrnL #1,16s
+rrnl,16s
+rrnL,16s
+rrnL #2,16s
+rrnS,12s
+rrnS,16s
+rrs,16s
+ScpCOI,cox1
+ScrCOI,cox1
+SGC8,nad5
+small ribosomal RNA,12s
+small ribosomal RNA subunit,12s
+small ribosomal RNA subunit RNA,12s
+small rRNA,12s
+small subinut ribosomal RNA,12s
+small subnit ribosomal RNA,12s
+small subumit ribosomal RNA,12s
+small subunit,12s
+small subunit 12S ribosomal RNA,12s
+small subunit of 12S ribosomal RNA,12s
+small subunit of ribosomal RNA,12s
+small subunit ribosmal RNA,12s
+small subunit ribosomal RNA,12s
+small subunit ribosomal RNA gene,12s
+small-subunit ribosomal RNA subunit,12s
+s-RNA,12s
+s-rRNA,12s
+srRNA,12s
+SrRNA,12s
+ssu,12s
+SSU,12s
+SSU rRNA,12s
+subunit 1 cytiochrome oxidase c,cox1
+subunit 1 of the cytochrome c oxidase,cox1
+Subunit 1 of the NADH ubiquinone oxidoreductase complex,nad1
+subunit 2 of the cytochrome c oxidase,cox2
+subunit 2 of the NADH ubiquinone oxidoreductase complex,nad2
+subunit 3 of the cytochrome c oxidase,cox3
+subunit 3 of the NADH ubiquinone oxidoreductase complex,nad3
+subunit 4 of the NADH ubiquinone oxidoreductase complex,nad4
+subunit 5 of the NADH ubiquinone oxidoreductase complex,nad5
+subunit 6 of mitochondrial F-ATPase,atp6
+subunit 6 of the NADH ubiquinone oxidoreductase complex,nad6
+subunit I of cytochrome c oxidase,cox1
+subunit ND4L of the NADH ubiquinone oxidoreductase complex,nad4l
+subunit ribosomal RNA,12s
+synthase F0 subunit 6,atp6
+synthase F0 subunit 8,atp8
+TAA stop codon is completed by the addition of 3' A residues to the mRNA,nad4l
+truncated ATPase subunit 6,atp6
+truncated ATP synthase F0 subunit 8,atp8
+truncated cytochrome c oxidase subunit I,cox1
+truncated cytochrome oxidase subunit 1,cox1
+truncated cytochrome oxidase subunit I,cox1
+truncated NADH dehydrogenase subunit 1,nad1
+truncated NADH dehydrogenase subunit 3,nad3
+truncated NADH dehydrogenase subunit 5,nad5
+truncated NADH dehydrogenase subunit 6,nad6
